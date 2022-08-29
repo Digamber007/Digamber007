@@ -16,12 +16,17 @@
  <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>                                                                                                      
+</h1>    
+
+
 - 👋 Hi, I’m @Digamber007
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+<div align="right">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div> 
 
 <!---
 Digamber007/Digamber007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
