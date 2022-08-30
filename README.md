@@ -19,31 +19,16 @@
 </h1>    
 
 
-- 👋 Hi, I’m @Digamber007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<div align="right">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> 
+### 👋 Hi, I’m @Digamber007
 
----
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Full Stack Development
+- 📫 How to reach me at digambertoppo007@gmail.com
+
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+
 
 ### :hammer_and_wrench: Languages and Tools :
-<!-- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div> --> 
 
 <p align="left">  
   
@@ -94,12 +79,11 @@
    
 </p>
 
----
-
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
+![digamber007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=digamber007&theme=vue-dark&hide_border=true)
+![digamber007's Stats](https://github-readme-stats.vercel.app/api?username=digamber007&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![digamber007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=digamber007&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!---
 Digamber007/Digamber007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
