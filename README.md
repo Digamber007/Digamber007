@@ -19,14 +19,20 @@
 </h1>    
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 
-### 👋 Hi, I’m @Digamber007
+### 👋 Hi, I’m Digamber Toppo
 
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Full Stack Development
+- 💬 Ask me about **Html, CSS, JavaScript, React, and Java**
 - 📫 How to reach me at digambertoppo007@gmail.com
 
   
-
+### Contact me : 
+<p align="left">
+<a href="https://linkedin.com/in/digambar-toppo-2a887868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="digambar-toppo-2a887868" height="30" width="40" /></a>
+<a href="https://codesandbox.com/digamber007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="digamber007" height="30" width="40" /></a>
+<a href="https://instagram.com/digamber009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="digamber009" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/digamber007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="digamber007" height="30" width="40" /></a>
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 
