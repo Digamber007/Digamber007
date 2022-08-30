@@ -17,7 +17,7 @@
   Hey there...
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>    
-
+<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 
 ### 👋 Hi, I’m @Digamber007
 
@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me at digambertoppo007@gmail.com
 
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+  
 
 
 ### :hammer_and_wrench: Languages and Tools :
