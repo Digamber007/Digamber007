@@ -19,7 +19,7 @@
 </h1>    
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 
-### 👋 Hi, I’m Digamber Toppo
+### 👋 Hi, I’m Digambar Toppo
 
 - 🌱 I’m currently learning Full Stack Development
 - 💬 Ask me about **Html, CSS, JavaScript, React, and Java**
